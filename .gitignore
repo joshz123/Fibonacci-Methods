@@ -1,0 +1,15 @@
+
+*.xml
+*.iml
+*.pdb
+*.dll
+HelloWorld/obj/Debug/HelloWorld.csproj.FileListAbsolute.txt
+*.exe
+*.cache
+*.csproj
+TestCode/Properties/AssemblyInfo.cs
+TestCode/obj/Debug/TestCode.csproj.FileListAbsolute.txt
+Solution1.sln.DotSettings.user
+Solution1.sln
+HelloWorld/Properties/AssemblyInfo.cs
+TestCode/TestCode.csproj.DotSettings
